@@ -1,0 +1,24 @@
+SOURCE CODE LICENSE NOTICE
+==========================
+
+License: PolyForm Noncommercial License 1.0.0
+Canonical license terms:
+https://polyformproject.org/licenses/noncommercial/1.0.0
+Official plain-text terms:
+https://polyformproject.org/licenses/noncommercial/1.0.0.txt
+
+Scope in this repository
+------------------------
+This license applies to source code implementing the experimental QK
+architecture, including qk_minimal.py and implementation code listings in
+the accompanying documents, except where a different license is explicitly
+stated.
+
+Summary only
+------------
+The PolyForm Noncommercial License 1.0.0 permits use, modification and
+distribution for permitted noncommercial purposes under its terms. This
+notice is only a project licensing notice and summary. The canonical
+PolyForm license linked above controls.
+
+Commercial use is not granted by this license.

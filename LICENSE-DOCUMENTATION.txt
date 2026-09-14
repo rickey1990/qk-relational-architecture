@@ -1,0 +1,29 @@
+DOCUMENTATION LICENSE NOTICE
+============================
+
+License: Creative Commons Attribution-NonCommercial 4.0 International
+Short name: CC BY-NC 4.0
+Canonical license terms:
+https://creativecommons.org/licenses/by-nc/4.0/
+Legal code:
+https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+Scope in this repository
+------------------------
+This license applies to the copyrightable documentation, explanatory text,
+figures, and tables supplied with this project, except where a different
+license is explicitly stated.
+
+In particular, this includes the prose, explanatory diagrams/figures and
+tables in the architecture paper and quickstart document. Source-code
+listings that implement the architecture are licensed separately under the
+PolyForm Noncommercial License 1.0.0; see LICENSE-CODE.txt.
+
+Summary only
+------------
+CC BY-NC 4.0 permits sharing and adaptation for noncommercial purposes,
+subject to its attribution and other terms. This notice is only a project
+licensing notice and summary. The canonical Creative Commons license linked
+above controls.
+
+Commercial use is not granted by this license.
